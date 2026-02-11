@@ -74,8 +74,6 @@ The server will run on `http://localhost:3000`
 
 ## Contributing
 This is a university final project. For contributions or improvements, please refer to the project documentation in the `Documentation/` folder.
-## License
-ISC
 
 ## License
 ISC
